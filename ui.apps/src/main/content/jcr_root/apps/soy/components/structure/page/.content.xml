@@ -3,4 +3,5 @@
     jcr:primaryType="cq:Component"
     jcr:title="Soy Sites Project Page"
     sling:resourceSuperType="core/wcm/components/page/v1/page"
+    jcr:description="Page component for Soy site"
     componentGroup=".hidden"/>
