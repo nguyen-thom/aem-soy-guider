@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/soy"/>
+    <filter root="/content/soy"/>
+    <filter root="/content/dam/soy"/>
+</workspaceFilter>
